@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cth:home|Door43 (cth)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cth|d43-cth repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cth/archive/master.zip|d43-cth.zip]]
+
+**Recent Changes**
+{{changes>ns = cth}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cth|Ethnologue data]]
+
